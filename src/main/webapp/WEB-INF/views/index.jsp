@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-test test test test test test
+다시 준비합니다
 </body>
 </html>
