@@ -4,6 +4,9 @@
     <title>Title</title>
 </head>
 <body>
-
+<header></header>
+<section></section>
+<main></main>
+<footer></footer>
 </body>
 </html>
